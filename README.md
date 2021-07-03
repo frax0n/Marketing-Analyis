@@ -1,4 +1,4 @@
-# Marketing-Analyis
+# Marketing-Analysis
 DataSet Analysed
 A Example dataset analysed which was obtained from Kaggle.
 
